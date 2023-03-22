@@ -5,6 +5,5 @@
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me through the internet
 - email--> merkasin272@gmail.com
-- 
 
 
