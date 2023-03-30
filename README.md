@@ -5,5 +5,5 @@
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me through the internet
 - email--> merkasin272@gmail.com
-- linkedin -- >linkedin.com/in/bishal272
+- linkedin -- >https://linkedin.com/in/bishal272
 
