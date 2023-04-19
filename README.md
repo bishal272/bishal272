@@ -1,3 +1,4 @@
+[![MasterHead](https://rare-gallery.com/uploads/posts/542745-mr-robot-wallpaper.jpg)]
 <h1 align="center">Hi 👋, I'm Bishal Sarkar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ0NWFiNDZiOTFkZmMyZTNjNjJiMzdmOTI1ZjQxMzRjOTQ5MTBjMyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
