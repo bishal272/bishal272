@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java,C/C++,HTML,CSS,JS**
 
-- 📫 How to reach me **merkasin272@gmail.com**
+- 📫 Email me at **merkasin272@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
