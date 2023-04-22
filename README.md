@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 <img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ0NWFiNDZiOTFkZmMyZTNjNjJiMzdmOTI1ZjQxMzRjOTQ5MTBjMyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal272&label=Profile%20views&color=0e75b6&style=flat" alt="bishal272" /> </p>
+
 
 - 🔭 I’m currently working on **Ecommerce App**
 
