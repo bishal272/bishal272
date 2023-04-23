@@ -3,7 +3,7 @@
 <br/>
 <img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ0NWFiNDZiOTFkZmMyZTNjNjJiMzdmOTI1ZjQxMzRjOTQ5MTBjMyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Ecommerce App**
+- 🔭 I’m currently working on **Social media App**
 
 - 🌱 I’m currently learning **MERN Stack**
 
