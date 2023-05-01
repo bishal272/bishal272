@@ -1,4 +1,3 @@
-<base target="_blank">
 <h1 align="center">Hi 👋, I'm Bishal Sarkar</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 <br/>
@@ -8,11 +7,11 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📝 I regularly write articles on [https://merkasin.hashnode.dev/](https://merkasin.hashnode.dev/)
+- 📝 I regularly write articles on <a href="https://merkasin.hashnode.dev" target="_blank">HashNode</a>
 
 - 💬 Ask me about **Java, C++, JS, ReactJs**
 
-- 📄 See my [Resume](https://bit.ly/rsm-merk)
+- 📄 See my <a href="https://bit.ly/rsm-merk" target="_blank">Resume</a>
 
 - 📫 Email me at **merkasin272@gmail.com**
 
