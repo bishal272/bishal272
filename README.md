@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, C++, JS, ReactJs**
 
-- 📄 See my <a href="https://bit.ly/rsm-merk" target="_blank">Resume</a>
+- 📄 See my <a href="https://bit.ly/rm-merk" target="_blank">Resume</a>
 
 - 📫 Email me at **merkasin272@gmail.com**
 
