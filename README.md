@@ -1,3 +1,4 @@
+<base target="_blank">
 <h1 align="center">Hi 👋, I'm Bishal Sarkar</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 <br/>
