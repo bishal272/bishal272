@@ -13,7 +13,7 @@
 
 - 📄 See my <a href="https://bit.ly/rm-merk" target="_blank">Resume</a>
 
-- 📫 Email me at **merkasin272@gmail.com**
+- 📫 Email me at **bishal27.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
